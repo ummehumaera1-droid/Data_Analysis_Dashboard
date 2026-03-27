@@ -30,4 +30,11 @@ Data analysis dashboard built in Excel featuring KPI tracking, sales trends, cus
 ## Dashboard Interaction
 - <a herf="https://github.com/ummehumaera1-droid/Data_Analysis_Dashboard/blob/main/Screenshot%202026-03-27%20190343.png">View Dashboard</a>
 
+## Process
+- Cleaned and formatted the dataset in Excel.
+- Used Pivot Tables to summarize sales and customer data.
+- Calculated KPIs (Total Sales, Orders, Profit Margin, MoM Growth).
+- Created charts for trends, products, and customer insights.
+- Added slicers (Month, Location) for interactivity.
+- Designed a clean and user-friendly dashboard layout.
 
