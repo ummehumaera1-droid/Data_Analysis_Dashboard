@@ -9,23 +9,23 @@ Data analysis dashboard built in Excel featuring KPI tracking, sales trends, cus
 - Total Orders
 - Total Quantity Sold
 - Profit Margin
-How does month-over-month (MoM) growth change over time?
-Which metrics are increasing or decreasing?
-What is the annual sales trend?
-Which months have the highest and lowest sales?
-Which products generate the highest sales?
-Identify top-performing and low-performing products
-How do sales vary by location?
-Which states contribute the most revenue?
-Who are the top buyers based on sales amount?
-Identify high-value customers
-How does revenue differ across age groups?
-Which age group contributes the most?
-What is the purchase behavior based on price groups?
-High-value vs low-value purchases
-How does revenue vary by gender?
-Contribution of Male, Female, and Others
-Which payment methods are most used?
-Cash, Credit Card, Debit Card, Mobile Payment
-🎯 Objective
+2. How does month-over-month (MoM) growth change over time?
+- Which metrics are increasing or decreasing?
+3. What is the annual sales trend?
+- Which months have the highest and lowest sales?
+4. Which products generate the highest sales?
+- Identify top-performing and low-performing products
+5. How do sales vary by location?
+- Which states contribute the most revenue?
+6. Who are the top buyers based on sales amount?
+- Identify high-value customers
+7. How does revenue differ across age groups?
+- Which age group contributes the most?
+8. What is the purchase behavior based on price groups?
+- High-value vs low-value purchases
+9. How does revenue vary by gender?
+- Contribution of Male, Female, and Others
+10. Which payment methods are most used?
+- Cash, Credit Card, Debit Card, Mobile Payment
+
 
